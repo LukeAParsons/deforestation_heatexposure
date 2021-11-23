@@ -1,0 +1,26 @@
+name: deforestation
+
+channels:
+- conda-forge
+
+dependencies:
+- basemap
+- cartopy
+- esmpy
+- h5netcdf
+- intake
+- ipython
+- ipykernel
+- jupyterlab
+- matplotlib
+- netcdf4
+- numpy
+- pandas
+- python=3.*
+- pyyaml
+- scikit-learn
+- scipy
+- seaborn
+- statsmodels
+- xarray
+- xesmf
